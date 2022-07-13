@@ -1,11 +1,11 @@
 ### <h1>Hi there 👋, This is Jin. Senior Full stack Web & Blockchain developer</h1>
 <br>
 
-<h4>Blockchain Developer</h4>
+Blockchain Developer
 <br>
-<h4>Pixpel Trading Company SA de CV</h4>
+Pixpel Trading Company SA de CV
 <br>
-<h4>Calle Dakota 95, segundo piso oficina 201, colonia Napoles, municipio Benito Juarez, Ciudad de Mexico, Mexico, codigo postal 03810</h4>
+Calle Dakota 95, segundo piso oficina 201, colonia Napoles, municipio Benito Juarez, Ciudad de Mexico, Mexico, codigo postal 03810</h4>
 <br>
 Website: [join me](https://www.pixpel.mx)
 <br>
@@ -16,7 +16,7 @@ Skype: live:.cid.e1423c646d07337a
 <hr>
 <h5>
 Blockchain and Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
-</h5>
+
 <br>
 
 - 🥇 Blockchain Development: [Solidity](https://solidity.io/), [Rust](https://rust.org/)
@@ -25,7 +25,7 @@ Blockchain and Full Stack developer with awesome web technical skills, hefty pro
 - 🥇 Hybrid Mobile App Development: [React-Native](https://reactjs.org/), [Ionic](https://ionicframework.com/), [NativeScript](https://nativescript.org/), [Flutter](https://flutter.dev/), [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
 - 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 - 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
-
+</h5>
 
 ![](https://img.shields.io/badge/Language-Solidity-success?style=flat&logo=solidity&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
