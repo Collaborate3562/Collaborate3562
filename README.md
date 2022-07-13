@@ -1,22 +1,22 @@
 ### <h1>Hi there 👋, This is Jin. Senior Full stack Web & Blockchain developer</h1>
 <br>
 
-<h2>Blockchain Developer</h2>
+<h4>Blockchain Developer</h4>
 <br>
-<h2>Pixpel Trading Company SA de CV</h2>
+<h4>Pixpel Trading Company SA de CV</h4>
 <br>
-<h2>Calle Dakota 95, segundo piso oficina 201, colonia Napoles, municipio Benito Juarez, Ciudad de Mexico, Mexico, codigo postal 03810</h2>
+<h4>Calle Dakota 95, segundo piso oficina 201, colonia Napoles, municipio Benito Juarez, Ciudad de Mexico, Mexico, codigo postal 03810</h4>
 <br>
-<h2>Website: [join me](https://www.pixpel.mx)</h2>
+Website: [join me](https://www.pixpel.mx)
 <br>
-<h2>E-mail: hejin@pixpel.mx</h2>
+E-mail: hejin@pixpel.mx
 <br>
-<h2>Skype: live:.cid.e1423c646d07337a</h2>
+Skype: live:.cid.e1423c646d07337a
 <br>
 <hr>
-<h3>
+<h5>
 Blockchain and Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
-</h3>
+</h5>
 <br>
 
 - 🥇 Blockchain Development: [Solidity](https://solidity.io/), [Rust](https://rust.org/)
