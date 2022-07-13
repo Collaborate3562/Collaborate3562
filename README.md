@@ -7,7 +7,7 @@ Pixpel Trading Company SA de CV
 <br>
 Calle Dakota 95, segundo piso oficina 201, colonia Napoles, municipio Benito Juarez, Ciudad de Mexico, Mexico, codigo postal 03810</h4>
 <br>
-Website: [join me](https://www.pixpel.mx)
+Website: https://www.pixpel.mx
 <br>
 E-mail: hejin@pixpel.mx
 <br>
