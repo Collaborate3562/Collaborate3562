@@ -1,4 +1,4 @@
-### <h1>Hi there 👋, This is Senior Full stack Web & Blockchain developer</h1>
+### <h1>Hi there 👋, This is Senior Full stack & Blockchain developer</h1>
 <br>
 
 Blockchain Developer
