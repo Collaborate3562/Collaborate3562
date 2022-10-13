@@ -9,9 +9,7 @@ Calle Dakota 95, segundo piso oficina 201, colonia Napoles, municipio Benito Jua
 <br>
 Website: https://www.pixpel.mx
 <br>
-E-mail: hejin@pixpel.mx
-<br>
-Skype: live:.cid.e1423c646d07337a
+E-mail: hejin@pixpel.mx, hejin@pixpel.io
 <br>
 <hr>
 <h5>
