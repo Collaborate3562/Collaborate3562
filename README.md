@@ -3,10 +3,6 @@
 
 Blockchain Developer
 <br>
-Pixpel Trading Company SA de CV
-<br>
-Calle Dakota 95, segundo piso oficina 201, colonia Napoles, municipio Benito Juarez, Ciudad de Mexico, Mexico, codigo postal 03810</h4>
-<br>
 Telegram: @DesarrollaorTalentosa
 <br>
 <hr>
