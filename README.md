@@ -1,7 +1,7 @@
-### <h1>Hi there 👋, This is Senior Full stack & Blockchain developer, David</h1>
+### <h1>Hi there 👋, This is Full stack developer, David</h1>
 <br>
 
-Blockchain Developer
+Full Stack Developer
 <br>
 Telegram: @DesarrollaorTalentosa
 <br>
