@@ -1,6 +1,6 @@
 ### <h1>Hi there 👋, This is Full stack developer, David</h1>
 <br>
-
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1>
 Full Stack Developer
 <br>
 Telegram: @DesarrollaorTalentosa
@@ -159,14 +159,10 @@ Full Stack developer with awesome web technical skills, hefty product developmen
   </a>
 </p>
 <hr>
-### Github Stats
 
 <br/>
 <a href="https://github.com/DavidJ3562"><img alt="DavidJ3562's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DavidJ3562&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/DavidJ3562"><img alt="DavidJ3562's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJ3562&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<br/>
-<br/>
-<a href="https://github.com/DavidJ3562"><img alt="DavidJ3562's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DavidJ3562&custom_title=DavidJ3562's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 <hr>
