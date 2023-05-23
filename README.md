@@ -1,5 +1,3 @@
-### <h1>Hi there 👋, This is Full stack developer, David</h1>
-<br>
 <a href=#><img src="contributions.svg"></a>
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1>
 
