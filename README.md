@@ -5,7 +5,7 @@ Full Stack Developer
 <br>
 Telegram: @DesarrollaorTalentosa
 <br>
-Discord: D_avid#5588
+Discord: 0xfashion.eth#8763
 <br>
 <hr>
 <h5>
