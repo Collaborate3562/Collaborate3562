@@ -134,7 +134,7 @@ Full Stack developer with awesome web technical skills, hefty product developmen
 <hr>
 
 <br/>
-<a href="https://github.com/Collaborate3562"><img alt="Collaborate3562's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DavidJ3562&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/Collaborate3562"><img alt="Collaborate3562's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Collaborate3562&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/Collaborate3562"><img alt="Collaborate3562's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collaborate3562&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <br/>
 
