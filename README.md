@@ -3,7 +3,7 @@
 
 Full Stack Developer
 <br>
-Telegram: @DesarrollaorTalentosa
+Telegram: @Collaborate3562
 <br>
 Discord: 0xfashion.eth
 <br>
